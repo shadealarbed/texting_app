@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546542840993",
+    "project_id": "textingapp-b9c18",
+    "storage_bucket": "textingapp-b9c18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546542840993:android:851fb232991060902454e0",
+        "android_client_info": {
+          "package_name": "com.example.texting_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546542840993-p91f04na3kef11afm8ut4ith3pcibdo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm9kIKISoMbQRKLavA_ycyRHVZYbq_8wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546542840993-p91f04na3kef11afm8ut4ith3pcibdo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
